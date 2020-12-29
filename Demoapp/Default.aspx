@@ -9,7 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h2>Sample application to fetech the app from git hub to azure</h2>
+            <h2>Sample application from VS to  git hub repo to azure.
+
+            </h2>
         </div>
     </form>
 </body>
